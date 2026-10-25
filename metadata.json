@@ -1,0 +1,6 @@
+{
+  "name": "HỖ TRỢ VẼ HÌNH _ PHẠM HẬU",
+  "description": "Công cụ chuyên biệt hỗ trợ giáo viên vẽ hình học không gian và đồ thị hàm số chuẩn SGK Kết Nối Tri Thức Toán 10, 11, 12",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
